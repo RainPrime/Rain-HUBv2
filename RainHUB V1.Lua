@@ -7182,9 +7182,9 @@ L_5_.Info:AddButton(
 L_5_.Info:AddButton(
         {
             Title = "ลิ้งค์ Discord Rain_Hub",
-            Description = "",
+            Description = "https://discord.gg/X9rfZWuG",
             Callback = function()
-                setclipboard("https://discord.gg/hWrKvbMrVF")
+                setclipboard("https://discord.gg/X9rfZWuG")
                 Fluent:Notify(
                     {
                         Title = "Rain_Hub",
