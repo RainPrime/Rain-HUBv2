@@ -9,11 +9,11 @@ local L_3_ = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-sc
 ----------------------------------------------------------------------------------------------------------------------------------------------
 local L_4_ = L_1_:CreateWindow({
 	Title = "Rain Hub",
-	SubTitle = "Version 1029387",
+	SubTitle = "v1",
 	TabWidth = 160,
 	Size = UDim2.fromOffset(530, 350),
 	Acrylic = false,
-	Theme = "Aqua",
+	Theme = "Show",
 	MinimizeKey = Enum.KeyCode.End
 })
 local L_5_ = {
